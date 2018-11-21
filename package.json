@@ -1,0 +1,23 @@
+{
+  "name": "tiny-vue-examples",
+  "version": "0.1.0",
+  "description": "tiny examples",
+  "author": "Xwth <xewth.s@gmail.com>",
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "vue": "^2.5.17",
+    "vue-facebook-signin-button": "^1.0.1",
+    "vue-router": "^3.0.1",
+    "vue-template-compiler": "^2.5.17",
+    "vuex": "^3.0.1"
+  },
+  "devDependencies": {
+    "@vue/cli-service": "^3.1.4"
+  },
+  "license": "MIT",
+  "main": "src/App.vue",
+  "repository": "https://github.com/Xwth/tiny-vue-examples.git"
+}

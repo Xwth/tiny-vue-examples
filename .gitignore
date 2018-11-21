@@ -1,0 +1,40 @@
+### Intellij ###
+# Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm
+*.iml
+
+TODO.md
+.DS_Store
+
+/node_modules/
+/dist/
+test/e2e/reports
+test/e2e/screenshots
+
+package-lock.json
+
+## Directory-based project format:
+.idea
+
+# mpeltonen/sbt-idea plugin
+.idea_modules/
+
+# Editor directories and files
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+### Node ###
+# Logs
+logs
+*.log
+
+
+### SublimeText ###
+# cache files for sublime text
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+# workspace files are user-specific
+*.sublime-workspace
